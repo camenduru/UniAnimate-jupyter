@@ -18,3 +18,8 @@ https://arxiv.org/abs/2403.14621
 https://arxiv.org/abs/2406.01188
 
 ### 🖼 Output
+
+https://github.com/camenduru/UniAnimate-jupyter/assets/54370274/1533c094-2fc4-4882-bab4-91dd7f934345
+
+
+https://github.com/camenduru/UniAnimate-jupyter/assets/54370274/d247b0b5-2c19-4f60-a7d8-6a606a51b4c8
