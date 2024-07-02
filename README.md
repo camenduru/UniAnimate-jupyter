@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/UniAnimate-jupyter/blob/main/UniAnimate_jupyter.ipynb) | UniAnimate_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/UniAnimate-jupyter/blob/main/UniAnimate_jupyter.ipynb) | UniAnimate_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/ali-vilab/UniAnimate
