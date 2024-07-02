@@ -12,10 +12,10 @@
 https://github.com/ali-vilab/UniAnimate
 
 ### 📄 Paper
-https://arxiv.org/abs/2403.14621
+https://arxiv.org/abs/2406.01188
 
 ### 🌐 Page
-https://arxiv.org/abs/2406.01188
+https://unianimate.github.io/
 
 ### 🖼 Output
 
